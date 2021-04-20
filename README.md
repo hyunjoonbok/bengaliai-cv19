@@ -39,5 +39,5 @@ To run the training of the model, the Jupyter Notebook '06_Training_and_validati
 
 ## Kernel 
 Reference: 
-https://www.youtube.com/c/YouHanLee/videos
+https://www.youtube.com/c/YouHanLee/videos \
 https://hoya012.github.io/blog/albumentation_tutorial/
