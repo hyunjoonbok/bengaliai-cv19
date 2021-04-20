@@ -2,8 +2,6 @@
 
 ![logo](./img/logo.jpg)
 
-![logo](./img/img1.jpg)
-
 ### Kaggle Competition 
 In this repo, you can find the code I constructed for the Kaggle Bengali.AI competition.
 The repo is work-in-progress, as the whole automated pipeline is not constructed (mostly Jupyter notebooks). 
@@ -11,7 +9,11 @@ The repo is work-in-progress, as the whole automated pipeline is not constructed
 ## Notebooks
 In the folder 'notebook', you can find the Jupyter notebooks, I collectively used to approach the problem from the beginning. 
 
-Most of the raw datatset are not listed in github, as their file sizes are quite big (.parquet, .pkl). You can access the official dataset in the competition page [here](https://www.kaggle.com/c/bengaliai-cv19/data) 
+Most of the raw datatset are not listed in github, as their file sizes are quite big (.parquet, .pkl). You can access the official dataset in the competition page
+
+[Bengali.AI Handwritten Grapheme Classification](https://www.kaggle.com/c/bengaliai-cv19/data) 
+
+![logo](./img/img1.png)
 
 The model consists of ResNet34 pre-trained (on Imagenet) model with a generalized mean pool and custom head layer. For augmentation, Albumentation is used.
 
