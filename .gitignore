@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Big Files
+*.parquet
+**/*.parquet
+input/*.parquet
+
+# Ignore pickles
+*.pkl
+**/*.pkl
+input/train_images/*.pkl
