@@ -1,4 +1,9 @@
 # Bengali.AI Handwritten Grapheme Classification
+
+![logo](./img/logo.jpg)
+
+![logo](./img/img1.jpg)
+
 ### Kaggle Competition 
 In this repo, you can find the code I constructed for the Kaggle Bengali.AI competition.
 The repo is work-in-progress, as the whole automated pipeline is not constructed (mostly Jupyter notebooks). 
